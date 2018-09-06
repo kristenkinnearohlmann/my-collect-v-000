@@ -1,5 +1,7 @@
-def my_collect
+def my_collect()
   if block_given?
+    while
+    end
   else
   end
 end
